@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Warpe e sou estudante de Ciência da Computação na Universidade Regional Integrada do Alto Uruguai e das Missões (URI), campus Santo Ângelo - RS. Sou apaixonado por tecnologia e desenvolvimento de software, buscando constantemente aprender novas tecnologias e aprimorar minhas habilidades. Também compartilho um pouco da minha jornada através do meu Instagram: **[@gabrielmaica_](https://www.instagram.com/gabrielmaica_/)**.
+Me chamo Gabriel Maica Warpechowski e sou estudante de Ciência da Computação na Universidade Regional Integrada do Alto Uruguai e das Missões (URI), campus Santo Ângelo - RS. Sou apaixonado por tecnologia e desenvolvimento de software, buscando constantemente aprender novas tecnologias e aprimorar minhas habilidades. Também compartilho um pouco da minha jornada através do meu Instagram: **[@gabrielmaica_](https://www.instagram.com/gabrielmaica_/)**.
 
 <p align="left">
     <a href="https://github.com/GabrielWarpe?tab=repositories&sort=stargazers">
